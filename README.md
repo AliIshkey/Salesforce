@@ -1,4 +1,4 @@
-# Sample Appliction to integrate with salesforce
+# Sample Application to integrate with salesforce
 
 # To create a new 'Contact' in Salesforce:
 sf.Contact.create({‘LastName’:Your surname’’, ‘Email’:’example@gmail.com’})
